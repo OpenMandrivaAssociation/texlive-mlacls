@@ -1,6 +1,6 @@
 Name:		texlive-mlacls
-Version:	60508
-Release:	2
+Version:	67201
+Release:	1
 Summary:	LaTeX class for MLA papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mlacls
