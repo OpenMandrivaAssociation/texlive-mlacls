@@ -1,5 +1,5 @@
 Name:		texlive-mlacls
-Version:	67201
+Version:	72271
 Release:	1
 Summary:	LaTeX class for MLA papers
 Group:		Publishing
